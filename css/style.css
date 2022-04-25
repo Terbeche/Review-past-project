@@ -1,0 +1,20 @@
+html{
+  font-size : 20px;
+}
+
+#main{
+  text-align: left;
+}
+
+#image{
+max-width : 100%;
+display: block;
+}
+
+a:visited {
+  color: #c934eb;
+}
+
+#img-caption{
+  margin: 20px 0px 100px 0px;
+}
